@@ -1,0 +1,13 @@
+.container-img{
+    padding: 30px;
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
+    height: auto;
+    background-color:#a3c3c9
+}
+.container-img img{
+    width: 35rem;
+    min-width:13px ;
+    padding: 10px;
+}
