@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Pathway+Gothic+One&display=swap');
+
 * {
   margin: 0;
   padding: 0;
+  font-family: 'Pathway Gothic One', sans-serif;
 }
 
 .container1 {
@@ -24,4 +27,12 @@
 .containerChild1,
 .containerChild2 {
   padding: 5px;
+}
+
+.containerChild1{
+    width: 70vh;
+}
+
+.containerChild2{
+    width: 30vh;
 }
