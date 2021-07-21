@@ -25,3 +25,9 @@
 .containerChild2 {
   padding: 5px;
 }
+.card-content {
+ width: 300px;
+ border: 1px solid gray;
+ padding: 20px;
+ border-radius: 20px;
+}
